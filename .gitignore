@@ -3,8 +3,9 @@
 ANN/.ipynb_checkpoints/
 ANN/venv/
 LangChain/.ipynb_checkpoints/
-LangChain/myvenv
+LangChain/myenv/
 NLP Basics/.ipynb_checkpoints/
 Python
 Streamlit/.ipynb_checkpoints/
 venv/
+Simple_RNN/venv/
