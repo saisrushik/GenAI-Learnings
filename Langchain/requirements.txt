@@ -1,0 +1,13 @@
+langchain
+ipykernel
+python-dotenv
+openai
+langchain-community
+pypdf
+bs4
+arxiv
+wikipedia
+langchain-text-splitters
+pymupdf
+langchain-openai
+chromadb
